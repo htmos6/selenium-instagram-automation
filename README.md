@@ -10,3 +10,5 @@ Username --> Line 18
 Password --> Line 19
 
 Path of geckodriver.exe --> Line 8
+
+following_people.txt is just an example for resulted .txt file.
